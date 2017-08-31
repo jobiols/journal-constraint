@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <openerp>
-    <data noupdate="1">
+    <data noupdate="0">
 
     <record id="stock_warehouse_store_rule" model="ir.rule">
         <field name="name">Warehouse multi-store</field>
